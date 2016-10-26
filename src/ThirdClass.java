@@ -1,6 +1,7 @@
 
 public class ThirdClass {
     public static void main(String[] args) {
-        System.out.print("Мой третий класс");
+
+        System.out.print("Мой первый класс");
     }
 }

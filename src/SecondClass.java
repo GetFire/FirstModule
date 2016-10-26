@@ -2,6 +2,6 @@
 public class SecondClass {
     public static void main(String[] args) {
 
-        System.out.print("Мой второй класс");
+        System.out.print("Мой первый класс");
     }
 }
